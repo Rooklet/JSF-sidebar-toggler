@@ -1,4 +1,4 @@
-# JS Fiddle sidebar-toogler bookmarklet.
+# How to hide JS Fiddle sidebar:
 If your JS Fiddle sidebar gets messy you can just hide it. To achieve it just go to
 (http://htmlpreview.github.io/?https://github.com/Rooklet/JSF-sidebar-toggler/blob/master/bookmarklet.html), 
 drag JSFsidebarToggler link to bookmarks bar, and run it after JS Fiddle loads.
