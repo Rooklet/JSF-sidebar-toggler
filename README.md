@@ -3,7 +3,7 @@ If your JS Fiddle sidebar gets messy you can just hide it. To achieve it just go
 (http://htmlpreview.github.io/?https://github.com/Rooklet/JSF-sidebar-toggler/blob/master/bookmarklet.html), 
 drag JSFsidebarToggler link to bookmarks bar, and run it after JS Fiddle loads.
 
-It will generate one extra button to toggle sidebar.
+It will add toggler-button to navbar.
 
 I use to generate bookmarklets by https://mrcoles.com/bookmarklet/ but you can also generate
 bookmarklet from script by yourself.
